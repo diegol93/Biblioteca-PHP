@@ -1,0 +1,44 @@
+
+/*Estilos para los formularios*/
+.contenido fieldset {
+	width: 30%; 
+	text-align: center;
+	margin: auto;
+	padding: 2%;
+}
+
+.contenido form label {
+	margin: 2%;
+    width: 5%;
+    float: left;
+}
+
+.contenido form input { 
+    padding: 1%;
+    margin: 2%;
+}
+
+/*Para los valores obtenidos */
+.contenido .values {
+	width: 30%; 
+	margin: auto;
+	text-align: center;
+	border: 1px solid grey;
+	border-radius: 5px;
+}
+
+/* Tablas */
+.contenido table {
+	text-align: center;
+	margin: 4% auto;
+}
+
+.contenido .btn {
+	background-color: gray;
+	color: black;
+	text-decoration: none;
+	border-radius: 9px;
+	border: 1px solid grey;
+	padding: 3px;
+	margin-left: 29%;
+}
